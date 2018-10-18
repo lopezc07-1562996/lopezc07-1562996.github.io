@@ -1,0 +1,38 @@
+body {
+    background-color: darkslategrey;
+    color: azure;
+    font-size: 1.1em;
+}
+h1 {
+    color: coral;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: orange;
+}
+
+section {
+    border: 1px solid coral;
+  }
+  
+  
+  .left {
+    float: left;
+    background: pink;
+  }
+  
+  .right {
+    float: right;
+    background: cyan;
+  }
+
+
+  #rcorners1 {
+    border-radius: 25px;
+    border: 4px solid coral;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
